@@ -1,5 +1,5 @@
 <?php
-class Supabase {
+class EasySupabase {
     private $baseUrl;
     private $apiKey;
     private $headers;
