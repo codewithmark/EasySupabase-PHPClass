@@ -1,4 +1,4 @@
-# 📘 Supabase PHP Class – Beginner Guide & Full Documentation
+# 📘 Easy Supabase PHP Class – Beginner Guide & Full Documentation
 
 This class allows you to communicate with your **Supabase** project directly from PHP, without Composer or external libraries. Use it to manage posts, users, comments, or anything stored in Supabase.
 
