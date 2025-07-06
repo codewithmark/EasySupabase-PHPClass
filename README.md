@@ -7,12 +7,12 @@ This class allows you to communicate with your **Supabase** project directly fro
 ## 🔧 Setup
 
 ```php
-require_once 'Supabase.php';
+require_once 'EasySupabase.php';
 
 $url = 'https://your-project.supabase.co'; // your Supabase URL
 $key = 'your-api-key'; // anon or service role
 
-$db = new Supabase($url, $key);
+$db = new EasySupabase($url, $key);
 ```
 
 ---
